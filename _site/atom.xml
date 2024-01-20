@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Hello. I&apos;m Jami Gibbs.</title>
+ <title>Hello. I&apos;m Tony Su.</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-06-24T13:34:03+08:00</updated>
+ <updated>2024-01-20T11:55:49-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
-   <name>Jami Gibbs</name>
+   <name>Tony Su</name>
    <email></email>
  </author>
 
  
  <entry>
    <title>Phantom</title>
-   <link href="http://localhost:4000/development/design/2016/02/21/phantom-jekyll-template.html"/>
-   <updated>2016-02-21T05:15:00+08:00</updated>
-   <id>http://localhost:4000/development/design/2016/02/21/phantom-jekyll-template</id>
+   <link href="http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template.html"/>
+   <updated>2016-02-20T15:15:00-06:00</updated>
+   <id>http://localhost:4000/development/design/2016/02/20/phantom-jekyll-template</id>
    <content type="html">
 </content>
  </entry>
@@ -24,7 +24,7 @@
  <entry>
    <title>Rescue Themes</title>
    <link href="http://localhost:4000/development/design/2016/02/20/rescue-themes.html"/>
-   <updated>2016-02-20T23:56:00+08:00</updated>
+   <updated>2016-02-20T09:56:00-06:00</updated>
    <id>http://localhost:4000/development/design/2016/02/20/rescue-themes</id>
    <content type="html">
 </content>
@@ -33,7 +33,7 @@
  <entry>
    <title>Weathercast</title>
    <link href="http://localhost:4000/development/2016/02/20/weathercast.html"/>
-   <updated>2016-02-20T23:56:00+08:00</updated>
+   <updated>2016-02-20T09:56:00-06:00</updated>
    <id>http://localhost:4000/development/2016/02/20/weathercast</id>
    <content type="html">
 </content>
@@ -42,7 +42,7 @@
  <entry>
    <title>Bloc Jams Angular</title>
    <link href="http://localhost:4000/development/2016/02/20/bloc-jams-angular.html"/>
-   <updated>2016-02-20T22:15:00+08:00</updated>
+   <updated>2016-02-20T08:15:00-06:00</updated>
    <id>http://localhost:4000/development/2016/02/20/bloc-jams-angular</id>
    <content type="html">
 </content>
